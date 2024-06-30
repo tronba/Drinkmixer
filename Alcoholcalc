@@ -1,5 +1,5 @@
 # Define alcohol content for each ingredient (in grams of alcohol per gram of ingredient)
-alcohol_content = [0.28, 0.43, 0.0, 0.0, 0.4, 0.21, 0.4, 0.0, 0.2, 0.0, 0.0, 0.4, 0.4, 0.0, 0.0, 0.0, 0.2, 0.0]  # Example>
+alcohol_content = [0.28, 0.43, 0.0, 0.0, 0.4, 0.21, 0.4, 0.0, 0.2, 0.0, 0.0, 0.4, 0.4, 0.0, 0.0, 0.0, 0.2, 0.0]  # Example, 0.2 equates to 20 % alcohol>
 
 def calculate_alcohol_level(ingredient_list):
     total_alcohol = 0
